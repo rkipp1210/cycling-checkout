@@ -7,8 +7,8 @@ This app will someday be placed by the door so we know who is still out riding, 
 
 To run the app:
 ```bash
-npm install
-node app.js
+$ npm install
+$ node app.js
 ```
 
 
